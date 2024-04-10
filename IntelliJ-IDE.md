@@ -7,7 +7,7 @@ JetBrains (the company offering IntelliJ) has a students programme offering a fr
 
 - **Optional: Education License** Register with your @student-email address. https://www.jetbrains.com/community/education/#students/
 
-Follow below instruction for your respective operating system:
+  Follow below instruction for your respective operating system:
 - **Windows** users can simply download the IntelliJ installer provided on https://www.jetbrains.com/idea/download/. The installation will then be handled by the installer.
 - **OSX** users simply download the 64 bit Image and move the program into their application folder. You should be able to start IntelliJ by simply clicking on the IntelliJ icon in your application folder.
 - **Linux** users can use the files supplied on this link https://www.jetbrains.com/idea/download/, unpack it and run the `idea.sh` file **OR** when using snap use the following commands (for community or ultimate respectively):
@@ -19,16 +19,17 @@ Follow below instruction for your respective operating system:
   Refer to your distribution wiki if you are uncertain how to proceed in this case.
 
 
-##Basic Usage of the IDE
+## Basic Usage of the IDE
 After the installation steps, you should be able to start the IntelliJ IDE. You should see a prompt, asking you to create a new project.
 
 If you haven't manually installed a Java SDK you want to create a new project. In the resulting prompt basic project parameters are set. In the topmost drop-down menu, labelled "Project SDK" you should choose the "Download SDK" option, opting for the **"Oracle OpenJDK 17"** version. After a brief installation time you should be able to generate the new project.
-\begin{center}
-If OpenJDK 17 is available no additional download is required.\\
-   \includegraphics[width=6cm]{materials/A0/new-proj.png}
-   \includegraphics[width=4cm]{materials/A0/download.png}\\
-   If not, choose Version 17, Oracle OpenJDK 17. The Location may vary. 
-\end{center}
+
+If OpenJDK 17 is available no additional download is required.
+<p float="left">
+  <img src="https://github.com/GBI-teaching/Assignment-0/assets/45968370/79084ce9-5c8a-4576-b004-5dd37b56172d" width="600"/>
+  <img src="https://github.com/GBI-teaching/Assignment-0/assets/45968370/222006cf-e24d-4a48-b582-68b0e0398487" width="400"/> 
+</p>
+If not, choose Version 17, Oracle OpenJDK 17. The Location may vary.
 
 You can create a project based on a template (e.g. command line program) or an empty project.
 In the first case a basic structure (main function, module) will be generated for you.
