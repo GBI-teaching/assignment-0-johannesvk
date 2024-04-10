@@ -24,12 +24,13 @@ After the installation steps, you should be able to start the IntelliJ IDE. You 
 
 If you haven't manually installed a Java SDK you want to create a new project. In the resulting prompt basic project parameters are set. In the topmost drop-down menu, labelled "Project SDK" you should choose the "Download SDK" option, opting for the **"Oracle OpenJDK 17"** version. After a brief installation time you should be able to generate the new project.
 
-If OpenJDK 17 is available no additional download is required.
+*If OpenJDK 17 is available no additional download is required.*
 <p float="left">
   <img src="https://github.com/GBI-teaching/Assignment-0/assets/45968370/79084ce9-5c8a-4576-b004-5dd37b56172d" width="600"/>
   <img src="https://github.com/GBI-teaching/Assignment-0/assets/45968370/222006cf-e24d-4a48-b582-68b0e0398487" width="400"/> 
 </p>
-If not, choose Version 17, Oracle OpenJDK 17. The Location may vary.
+
+*If not, choose Version 17, Oracle OpenJDK 17. The Location may vary.*
 
 You can create a project based on a template (e.g. command line program) or an empty project.
 In the first case a basic structure (main function, module) will be generated for you.
