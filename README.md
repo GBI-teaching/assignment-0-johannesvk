@@ -15,13 +15,16 @@ You will work on your Assignments in pairs of two students. To ensure that you a
 ### 3. Install the IDE
 If you did not install your IDE, now is the last chance to do so. Please find the complete information in the file [IntelliJ-IDE](https://github.com/GBI-teaching/Assignment-0/blob/5255c6319f883a9e051fb6c6538cf3d1964fc1b9/IntelliJ-IDE.md) in this repository.
 
-### 4. Clone this repository
-`git clone <>`
+### 4. Clone the repository
+In order to work locally on your computer, clone the repository created for your group. You can either do this via git or via GitHub Desktop or via IntelliJ.
+`git clone https://github.com/GBI-teaching/<name-of-repository>`
+
 ### 5. Read short introduction into github
 GitHub is great!
 
 For later reference you can also use this [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) to remember the most important commands.
 ### 6. Create Markdown files
-Each team member should create a Markdown file which is called `<YourName>.md and enter the names of both team mates into that file.
-### 7. Push the created files to this repository
-Congrats, you finished your first Assignment :)
+Each team member should create a Markdown file which is called `<YourName>.md and enter the names of both team mates into that file. Push the files to this repository.
+
+### 7. Getting started with Java
+Follow the Exercises described in the document [Java-Exercises](https://github.com/GBI-teaching/Assignment-0/blob/626ead5b2fde7fc8285acc937530ef8957cd5cb3/Java-Exercises.md) in this repository. Add the created files to your repository and push to github.
