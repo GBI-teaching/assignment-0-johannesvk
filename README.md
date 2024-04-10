@@ -17,10 +17,10 @@ If you did not install your IDE, now is the last chance to do so. Please find th
 
 ### 4. Clone the repository
 In order to work locally on your computer, clone the repository created for your group. You can either do this via git or via GitHub Desktop or via IntelliJ.
+
 `git clone https://github.com/GBI-teaching/<name-of-repository>`
 
 ### 5. Read short introduction into github
-GitHub is great!
 
 For later reference you can also use this [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) to remember the most important commands.
 ### 6. Create Markdown files
