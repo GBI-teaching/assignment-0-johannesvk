@@ -24,7 +24,7 @@ In order to work locally on your computer, clone the repository created for your
 
 For later reference you can also use this [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) to remember the most important commands.
 ### 6. Create Markdown files
-Each team member should create a Markdown file which is called `<YourName>.md and enter the names of both team mates into that file. Push the files to this repository.
+Each team member should create a Markdown file which is called `<YourName>.md` and enter the names of both team mates into that file. Push the files to this repository.
 
 ### 7. Getting started with Java
 Follow the Exercises described in the document [Java-Exercises](https://github.com/GBI-teaching/Assignment-0/blob/626ead5b2fde7fc8285acc937530ef8957cd5cb3/Java-Exercises.md) in this repository. Add the created files to your repository and push to github.
